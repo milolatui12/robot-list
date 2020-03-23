@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/robot-list/static/css/main.a3b3a408.chunk.css",
+    "main.js": "/robot-list/static/js/main.86b0144c.chunk.js",
+    "main.js.map": "/robot-list/static/js/main.86b0144c.chunk.js.map",
+    "runtime-main.js": "/robot-list/static/js/runtime-main.2549f732.js",
+    "runtime-main.js.map": "/robot-list/static/js/runtime-main.2549f732.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/robot-list/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.bcdbe497.chunk.js": "/robot-list/static/js/2.bcdbe497.chunk.js",
+    "static/js/2.bcdbe497.chunk.js.map": "/robot-list/static/js/2.bcdbe497.chunk.js.map",
+    "index.html": "/robot-list/index.html",
+    "precache-manifest.dfff1a14dd331b75f8d42d1fea84e23a.js": "/robot-list/precache-manifest.dfff1a14dd331b75f8d42d1fea84e23a.js",
+    "service-worker.js": "/robot-list/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/robot-list/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.a3b3a408.chunk.css.map": "/robot-list/static/css/main.a3b3a408.chunk.css.map",
+    "static/js/2.bcdbe497.chunk.js.LICENSE.txt": "/robot-list/static/js/2.bcdbe497.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2549f732.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.bcdbe497.chunk.js",
+    "static/css/main.a3b3a408.chunk.css",
+    "static/js/main.86b0144c.chunk.js"
+  ]
+}
